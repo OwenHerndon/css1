@@ -1,0 +1,49 @@
+body{
+	background-color: white;
+}
+
+.Nav-bar li{
+	list-style-type: none;
+}
+
+.top-nav li{
+	list-style-type: none;
+	font-family: "Arial";
+	padding: 0 0px;
+    float: right;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.Main-img{
+	align: center;
+	padding-top: 45px;
+}
+
+img {
+    margin: auto;
+    width: 40%;
+    align: center;
+}
+
+.searchsize {
+	width: 408px;
+	height: 28px;
+}
+
+.button {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    color: #757575;
+    cursor: default;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+    text-align: center;
+}
+
+.bottomlink

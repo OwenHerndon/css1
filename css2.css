@@ -1,1 +1,35 @@
 body{background-color: green;}
+
+div{
+	border: 3px solid navy;
+    display: inline;
+}
+
+.div-inlineblock{
+	display: inline-block;
+	color: goldenrod;
+}
+
+.div-inline{
+	display: inline;
+}
+
+.div-block{
+	display: block;
+}
+
+article section:nth-child(2n){
+	border: 2px dashed red;
+}
+
+article section:nth-child(2n+1){
+	color: purple;
+}
+
+article section:first-of-type{
+	background: goldenrod;
+}
+
+.better-color{
+	color:	yellow;
+}
